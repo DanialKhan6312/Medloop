@@ -1,0 +1,67 @@
+[
+  {
+    "id": "38477755-424b-48f8-9a4a-b00e6892c575",
+    "data": [
+      {
+        "text": "did I take my pills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d22ee89c-05af-449b-9b7a-8c824b932c37",
+    "data": [
+      {
+        "text": "did i take my meds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab4aa781-e1f4-4396-b4ea-6d090f805a33",
+    "data": [
+      {
+        "text": "what pills do I take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8629bbb0-a921-4792-ad99-473980dba2b0",
+    "data": [
+      {
+        "text": "remind me what I have to take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bba3ef55-b6ca-47c4-be46-2da1be3ce2b0",
+    "data": [
+      {
+        "text": "did I take my medication",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

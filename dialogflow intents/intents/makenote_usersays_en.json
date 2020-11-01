@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ed3cd176-5988-484a-bd4b-8614ff56c8a8",
+    "data": [
+      {
+        "text": "tell my doctor I don\u0027t like theses meds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "578797d3-f958-43c2-a8b5-b069a0f5de5a",
+    "data": [
+      {
+        "text": "let my doctor know these meds make me sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
